@@ -1,0 +1,12 @@
+# Blender backups / autosaves
+*.blend1
+*.blend2
+*.blend@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+._*
