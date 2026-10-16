@@ -84,3 +84,9 @@ Key knobs are at the top of the script: `RAMP_R`, `RAMP_A_END`, `V_LAUNCH`, `F_D
 - Blender 5.x renamed the sky enum (`NISHITA` → `MULTIPLE_SCATTERING`) and moved video output
   under `image_settings.media_type = "VIDEO"`; both are handled in the script.
 - This is a fan-made concept render, not an official Tesla/SpaceX product visual.
+
+---
+
+## License
+
+[MIT](LICENSE) © 2026 Apoorv Darshan.
